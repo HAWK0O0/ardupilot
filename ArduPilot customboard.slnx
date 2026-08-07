@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ArduPilot customboard.vcxproj" Id="5b486b08-7ca8-43ed-b74d-df1367132a84" />
+</Solution>
